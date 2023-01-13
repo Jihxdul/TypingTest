@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TypingTest/static/css/main.bdf498a7.css",
+    "main.js": "/TypingTest/static/js/main.023936ca.js",
+    "index.html": "/TypingTest/index.html",
+    "main.bdf498a7.css.map": "/TypingTest/static/css/main.bdf498a7.css.map",
+    "main.023936ca.js.map": "/TypingTest/static/js/main.023936ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdf498a7.css",
+    "static/js/main.023936ca.js"
+  ]
+}
